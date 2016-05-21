@@ -1,6 +1,7 @@
 c:\users\sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\bin\Debug\Chatty McChatface.exe.config
 c:\users\sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\bin\Debug\Chatty McChatface.exe
 c:\users\sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\bin\Debug\Chatty McChatface.pdb
-c:\users\sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\obj\Debug\Chatty McChatface.csprojResolveAssemblyReference.cache
 c:\users\sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\obj\Debug\Chatty McChatface.exe
 c:\users\sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\obj\Debug\Chatty McChatface.pdb
+C:\Users\Sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sam\documents\visual studio 2015\Projects\Chatty McChatface\Chatty McChatface\obj\Debug\Chatty McChatface.csprojResolveAssemblyReference.cache
